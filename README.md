@@ -36,7 +36,7 @@ python visual_odometry.py
 ```
 
 ### Configuration
-- Modify `visual_odometry.py` to change:
+- Modify `motiontrack.py` to change:
   - Dataset path
   - Feature detection method
   - Camera parameters
