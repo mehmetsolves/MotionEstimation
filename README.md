@@ -32,7 +32,7 @@ pip install opencv-contrib-python  # For additional feature detectors
 
 ### Running the Script
 ```bash
-python visual_odometry.py
+python motiontrack.py
 ```
 
 ### Configuration
