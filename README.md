@@ -13,8 +13,8 @@ This project implements a basic Visual Odometry (VO) system using OpenCV and the
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/visual-odometry-project.git
-cd visual-odometry-project
+git clone https://github.com/mehmetsolves/MotionEstimation
+cd MotionEstimation
 
 # Install required packages
 pip install opencv-python numpy
