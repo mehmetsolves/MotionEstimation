@@ -66,9 +66,3 @@ The script generates two windows:
 - [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
 - [OpenCV Documentation](https://docs.opencv.org/)
 
-## 📜 License
-[Add your license here, e.g., MIT License]
-
-## 👥 Contributors
-- [Your Name]
-- [Other Contributors]
